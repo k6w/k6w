@@ -113,14 +113,18 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k6w&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=k6w&show_icons=true&bg_color=1e1e1e&title_color=89cff0&icon_color=89cff0&text_color=ffffff&border_color=1e1e1e" alt="GitHub Stats" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k6w&theme=radical" alt="GitHub Streak" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k6w&theme=black-ice&background=1e1e1e&ring=89cff0&fire=89cff0&currStreakNum=ffffff&sideNums=89cff0&sideLabels=89cff0&dates=ffffff" alt="GitHub Streak" width="450"/>
 </p>
 
 ---
+
+<div align="right">
+  <img height="200" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/2439760/157f2c293251ed449e9479faef78569d14895a43.gif" alt="Profile Picture"/>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/k6w/k6w/output/snake.svg" alt="Snake Animation" />
