@@ -1,13 +1,15 @@
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr>
-    <td style="width: 50%; text-align: left; vertical-align: middle;">
-      <h1>Hey there, I'm drwn 👋</h1>
-    </td>
-    <td style="width: 50%; text-align: right; vertical-align: middle;">
-      <img height="200" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/2439760/157f2c293251ed449e9479faef78569d14895a43.gif" alt="Profile Picture"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="width: 50%; text-align: left; vertical-align: middle;">
+        <h1>Hey there, I'm drwn 👋</h1>
+      </td>
+      <td style="width: 50%; text-align: right; vertical-align: middle;">
+        <img height="200" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/2439760/157f2c293251ed449e9479faef78569d14895a43.gif" alt="Profile Picture"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=k6w&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
