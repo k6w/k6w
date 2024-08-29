@@ -27,4 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k6w&" alt="k6w" /></p>
 
 
-<img src="https://github.com/k6w/k6w/blob/main/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/k6w/k6w/output/snake.svg" alt="Snake animation" />
