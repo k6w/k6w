@@ -1,17 +1,12 @@
 <h1 align="center">Hey, I'm drwn</h1>
-<h3 align="center">The funniest person you'll ever meet. 🐶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k6w&label=Profile%20views&color=0e75b6&style=flat" alt="k6w" /> </p>
 
-- I'm currently working at [Selective Solutions INC.](https://github.com/Selective-Solutions-INC)
-
-- I’m currently learning **C++.**
-
-- All of my projects are available at [https://darw1n.me/](https://darw1n.me/)
-
-- Reach out to me here: **mewing@duck.com**
-
-- Fun Fact **I think I'm funny (I actually am)**
+<div align="center">
+  <a href="https://open.spotify.com/user/31zlyb6pasxzjf4ce2rfrkdeth6a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zlyb6pasxzjf4ce2rfrkdeth6a&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
