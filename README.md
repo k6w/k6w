@@ -1,4 +1,13 @@
-<h1 align="center">Hey there, I'm drwn 👋</h1>
+<table>
+  <tr>
+    <td width="50%">
+      <h1 align="left">Hey there, I'm drwn 👋</h1>
+    </td>
+    <td width="50%" align="right">
+      <img height="200" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/2439760/157f2c293251ed449e9479faef78569d14895a43.gif" alt="Profile Picture"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=k6w&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -121,10 +130,6 @@
 </p>
 
 ---
-
-<div align="right">
-  <img height="200" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/2439760/157f2c293251ed449e9479faef78569d14895a43.gif" alt="Profile Picture"/>
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/k6w/k6w/output/snake.svg" alt="Snake Animation" />
