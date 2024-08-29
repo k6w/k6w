@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h1 align="left">Hey there, I'm drwn 👋</h1>
     </td>
-    <td width="50%" align="right">
+    <td width="100%" align="right">
       <img height="200" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/2439760/157f2c293251ed449e9479faef78569d14895a43.gif" alt="Profile Picture"/>
     </td>
   </tr>
