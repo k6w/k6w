@@ -34,10 +34,6 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k6w&show_icons=true&bg_color=1e1e1e&title_color=89cff0&icon_color=89cff0&text_color=ffffff&border_color=1e1e1e" alt="GitHub Stats" width="450"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k6w&theme=black-ice&background=1e1e1e&ring=89cff0&fire=89cff0&currStreakNum=ffffff&sideNums=89cff0&sideLabels=89cff0&dates=ffffff" alt="GitHub Streak" width="450"/>
 </p>
 
