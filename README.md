@@ -51,9 +51,8 @@
 ## selective
 
 independent label for software and scripts  
-- **neverlose.cc** · market leader with over 900+ successful purchases  
-- **ai ecosystem** · custom chat platform supporting 500+ ai models  
-- **infrastructure** · secure cloud config systems & discord integration services
+over 900 purchases on neverlose.cc  
+ai chat app with 500+ models  
 
 ---
 
