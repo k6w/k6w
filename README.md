@@ -51,7 +51,7 @@
 ## selective
 
 independent label for software and scripts  
-over 900 purchases on neverlose.cc  
+over 1500 purchases on neverlose.cc  
 ai chat app with 500+ models  
 
 ---
