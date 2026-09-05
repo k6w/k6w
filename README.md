@@ -55,11 +55,11 @@
 
 ## stack
 
-**frameworks** · next.js · react · tailwindcss · electron · swiftui · ratatui  
-**languages** · typescript · javascript · python · rust · swift · c++ · lua  
-**backend** · fastify · node.js · bun · bullmq · prisma  
-**database** · postgresql · mysql · sqlite · minio  
-**infrastructure** · cloudflare workers · docker · certbot · nginx · vps
+**frameworks** · <img src="https://cdn.simpleicons.org/nextdotjs/111111/eeeeee" height="13" /> next.js · <img src="https://cdn.simpleicons.org/react/111111/eeeeee" height="13" /> react · <img src="https://cdn.simpleicons.org/tailwindcss/111111/eeeeee" height="13" /> tailwindcss · <img src="https://cdn.simpleicons.org/electron/111111/eeeeee" height="13" /> electron · <img src="https://cdn.simpleicons.org/swift/111111/eeeeee" height="13" /> swiftui · <img src="https://cdn.simpleicons.org/ratatui/111111/eeeeee" height="13" /> ratatui  
+**languages** · <img src="https://cdn.simpleicons.org/typescript/111111/eeeeee" height="13" /> typescript · <img src="https://cdn.simpleicons.org/javascript/111111/eeeeee" height="13" /> javascript · <img src="https://cdn.simpleicons.org/python/111111/eeeeee" height="13" /> python · <img src="https://cdn.simpleicons.org/rust/111111/eeeeee" height="13" /> rust · <img src="https://cdn.simpleicons.org/swift/111111/eeeeee" height="13" /> swift · <img src="https://cdn.simpleicons.org/cplusplus/111111/eeeeee" height="13" /> c++ · <img src="https://cdn.simpleicons.org/lua/111111/eeeeee" height="13" /> lua  
+**backend** · <img src="https://cdn.simpleicons.org/fastify/111111/eeeeee" height="13" /> fastify · <img src="https://cdn.simpleicons.org/nodedotjs/111111/eeeeee" height="13" /> node.js · <img src="https://cdn.simpleicons.org/bun/111111/eeeeee" height="13" /> bun · <img src="https://cdn.simpleicons.org/redis/111111/eeeeee" height="13" /> bullmq · <img src="https://cdn.simpleicons.org/prisma/111111/eeeeee" height="13" /> prisma  
+**database** · <img src="https://cdn.simpleicons.org/postgresql/111111/eeeeee" height="13" /> postgresql · <img src="https://cdn.simpleicons.org/mysql/111111/eeeeee" height="13" /> mysql · <img src="https://cdn.simpleicons.org/sqlite/111111/eeeeee" height="13" /> sqlite · <img src="https://cdn.simpleicons.org/minio/111111/eeeeee" height="13" /> minio  
+**infrastructure** · <img src="https://cdn.simpleicons.org/cloudflareworkers/111111/eeeeee" height="13" /> cloudflare workers · <img src="https://cdn.simpleicons.org/docker/111111/eeeeee" height="13" /> docker · <img src="https://cdn.simpleicons.org/letsencrypt/111111/eeeeee" height="13" /> certbot · <img src="https://cdn.simpleicons.org/nginx/111111/eeeeee" height="13" /> nginx · <img src="https://cdn.simpleicons.org/ubuntu/111111/eeeeee" height="13" /> vps
 
 ---
 
