@@ -55,11 +55,20 @@
 
 ## stack
 
-**frameworks** · <img src="https://cdn.simpleicons.org/nextdotjs/111111/eeeeee" height="13" /> next.js · <img src="https://cdn.simpleicons.org/react/111111/eeeeee" height="13" /> react · <img src="https://cdn.simpleicons.org/tailwindcss/111111/eeeeee" height="13" /> tailwindcss · <img src="https://cdn.simpleicons.org/electron/111111/eeeeee" height="13" /> electron · <img src="https://cdn.simpleicons.org/swift/111111/eeeeee" height="13" /> swiftui · <img src="https://cdn.simpleicons.org/ratatui/111111/eeeeee" height="13" /> ratatui  
-**languages** · <img src="https://cdn.simpleicons.org/typescript/111111/eeeeee" height="13" /> typescript · <img src="https://cdn.simpleicons.org/javascript/111111/eeeeee" height="13" /> javascript · <img src="https://cdn.simpleicons.org/python/111111/eeeeee" height="13" /> python · <img src="https://cdn.simpleicons.org/rust/111111/eeeeee" height="13" /> rust · <img src="https://cdn.simpleicons.org/swift/111111/eeeeee" height="13" /> swift · <img src="https://cdn.simpleicons.org/cplusplus/111111/eeeeee" height="13" /> c++ · <img src="https://cdn.simpleicons.org/lua/111111/eeeeee" height="13" /> lua  
-**backend** · <img src="https://cdn.simpleicons.org/fastify/111111/eeeeee" height="13" /> fastify · <img src="https://cdn.simpleicons.org/nodedotjs/111111/eeeeee" height="13" /> node.js · <img src="https://cdn.simpleicons.org/bun/111111/eeeeee" height="13" /> bun · <img src="https://cdn.simpleicons.org/redis/111111/eeeeee" height="13" /> bullmq · <img src="https://cdn.simpleicons.org/prisma/111111/eeeeee" height="13" /> prisma  
-**database** · <img src="https://cdn.simpleicons.org/postgresql/111111/eeeeee" height="13" /> postgresql · <img src="https://cdn.simpleicons.org/mysql/111111/eeeeee" height="13" /> mysql · <img src="https://cdn.simpleicons.org/sqlite/111111/eeeeee" height="13" /> sqlite · <img src="https://cdn.simpleicons.org/minio/111111/eeeeee" height="13" /> minio  
-**infrastructure** · <img src="https://cdn.simpleicons.org/cloudflareworkers/111111/eeeeee" height="13" /> cloudflare workers · <img src="https://cdn.simpleicons.org/docker/111111/eeeeee" height="13" /> docker · <img src="https://cdn.simpleicons.org/letsencrypt/111111/eeeeee" height="13" /> certbot · <img src="https://cdn.simpleicons.org/nginx/111111/eeeeee" height="13" /> nginx · <img src="https://cdn.simpleicons.org/ubuntu/111111/eeeeee" height="13" /> vps
+**frameworks**  
+![next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black) ![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![electron](https://img.shields.io/badge/electron-47848F?style=flat&logo=electron&logoColor=white) ![swiftui](https://img.shields.io/badge/swiftui-F05138?style=flat&logo=swift&logoColor=white) ![ratatui](https://img.shields.io/badge/ratatui-000000?style=flat&logo=ratatui&logoColor=white)
+
+**languages**  
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) ![rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white) ![swift](https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white) ![c++](https://img.shields.io/badge/c%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![lua](https://img.shields.io/badge/lua-2C2D72?style=flat&logo=lua&logoColor=white)
+
+**backend**  
+![fastify](https://img.shields.io/badge/fastify-000000?style=flat&logo=fastify&logoColor=white) ![node.js](https://img.shields.io/badge/node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white) ![bun](https://img.shields.io/badge/bun-000000?style=flat&logo=bun&logoColor=white) ![bullmq](https://img.shields.io/badge/bullmq-FF4438?style=flat&logo=redis&logoColor=white) ![prisma](https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**database**  
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) ![sqlite](https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white) ![minio](https://img.shields.io/badge/minio-C72E49?style=flat&logo=minio&logoColor=white)
+
+**infrastructure**  
+![cloudflare workers](https://img.shields.io/badge/cloudflare%20workers-F38020?style=flat&logo=cloudflareworkers&logoColor=white) ![docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) ![certbot](https://img.shields.io/badge/certbot-003A70?style=flat&logo=letsencrypt&logoColor=white) ![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white) ![vps](https://img.shields.io/badge/vps-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ---
 
