@@ -38,10 +38,9 @@
 - [neverlose-development](https://github.com/k6w/neverlose-development) · luacats type definitions for the neverlose cs:go lua api with full autocomplete
 - [nex-lang](https://github.com/k6w/nex-lang) · human-readable data serialization language for config files and data exchange
 
-### security & osint
+### security & threat intelligence
 - [vantage](https://github.com/k6w/vantage) · real-time intelligence platform for cs2 risk scoring
 - [mangosint](https://github.com/k6w/mangosint) · modular, privacy-preserving osint cli framework
-- [ro-checker](https://github.com/k6w/ro-checker) · next-gen account checker with live web stats and plugin support
 - [subscan](https://github.com/k6w/subscan) · self-hosted subdomain intelligence — ct logs, passive dns, archives, threat intel
 - [vaultic](https://github.com/k6w/vaultic) · browser extension pairing totp 2fa with disposable email behind an encrypted vault
 
@@ -74,9 +73,8 @@
 
 ## selective
 
-independent label for software and scripts  
-over 1500 purchases on neverlose.cc  
-ai chat app with 500+ models  
+independent software label & product studio  
+1,500+ commercial licenses sold
 
 ---
 
